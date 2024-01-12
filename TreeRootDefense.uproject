@@ -23,6 +23,11 @@
 		{
 			"Name": "Composure",
 			"Enabled": true
+		},
+		{
+			"Name": "PostProcessWidget",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/681964e1c10b466a9b803073e582f48a"
 		}
 	]
 }
