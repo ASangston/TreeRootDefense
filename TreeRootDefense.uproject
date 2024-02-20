@@ -28,6 +28,11 @@
 			"Name": "PostProcessWidget",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/681964e1c10b466a9b803073e582f48a"
+		},
+		{
+			"Name": "AccessVariableByName",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b9e4a73c7e974b1581e711243a693fe3"
 		}
 	]
 }
